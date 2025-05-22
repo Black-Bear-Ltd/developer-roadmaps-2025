@@ -7,7 +7,7 @@ This repository contains milestone-based roadmaps for aspiring **Frontend** and 
 - **`frontend/`**: Frontend Developer Roadmap and code examples.
   - `roadmap.md`: Detailed milestones for frontend development.
   - `examples/`: Code snippets for milestone projects (e.g., portfolio, recipe app).
-- ** `backend/`**: Backend Developer Roadmap and code examples.
+- **`backend/`**: Backend Developer Roadmap and code examples.
   - `roadmap.md`: Detailed milestones for backend development.
   - `examples/`: Code snippets for milestone projects (e.g., CLI server, FastAPI blog).
 - **`LICENSE`**: MIT License for usage terms.
@@ -16,7 +16,7 @@ This repository contains milestone-based roadmaps for aspiring **Frontend** and 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/developer-roadmaps-2025.git
+   git clone https://github.com/Black-Bear-Ltd/developer-roadmaps-2025.git
    ```
 2. Explore the `frontend/roadmap.md` and `backend/roadmap.md` for detailed learning paths.
 3. Check the `examples/` folders for practical code samples.
